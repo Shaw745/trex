@@ -1,7 +1,7 @@
 import React from "react";
 import { cars } from "../data";
 import { useState } from "react";
-import SingleCar from "./singlecar";
+import SingleCar from "./Singlecar";
 
 
 const categories = ["all", ...new Set(cars.map((car) => car.category))];
