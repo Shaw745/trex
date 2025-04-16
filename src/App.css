@@ -1,0 +1,8 @@
+.hero{
+  background-image: url("./assets/black.png");
+}
+
+.rent{
+  background-image: url("./assets/white.png");
+  background-position:center;
+}

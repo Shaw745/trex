@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.layout {
+  @apply max-w-[1084px] mx-auto px-2.5
+}
+
